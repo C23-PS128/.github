@@ -2,7 +2,7 @@
 <p align="center"><img src="profile/screenshot/banner-repository.png"/></p>
 
 ## About
-Bean Greader is an App to find out the quality of coffee beans. By using Machine Learning technology, coffee bean quality detection can display accurate data. So that users can find out what causes affect the quality of the coffee beans. This capstone project was developed by C23-PS128.
+Bean Greader is an application for finding information about coffee and knowing the quality of coffee beans. By using Machine Learning technology, the coffee bean quality detector can display accurate data. So that users can find out what causes affect the quality of the coffee beans.
 
 <p align="center"><img src="profile/screenshot/Demo.png"/></p>
 
