@@ -1,4 +1,4 @@
-# [C23 - PS128] Bean Greader : _Detect Your Quality Coffee Beans_
+# [C23-PS128] Bean Greader : _Detect Your Quality Coffee Beans_
 <p align="center"><img src="profile/screenshot/banner-repository.png"/></p>
 
 ## About
