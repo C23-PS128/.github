@@ -1,7 +1,7 @@
-<p align="center"><img align="center" src="screenshot/banner-repository.png" alt="BeanGreader Logo"/></p>
 # Bean Greader
 Bean Greader is an App to find out the quality of coffee beans. By using Machine Learning technology, coffee bean quality detection can display accurate data. So that users can find out what causes affect the quality of the coffee beans. This capstone project was developed by C23-PS128.
 
+<p align="center"><img align="center" src="screenshot/banner-repository.png" alt="BeanGreader Logo"/></p>
 
 ## C23-PS128
 C23-PS128 is our group working on the capstone project of [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) , which consists of:
