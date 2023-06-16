@@ -10,7 +10,7 @@ C23-PS128 is our group working on the capstone project of [Bangkit Academy](http
 - [Aygrace Lia Hutagaol](https://github.com/aygracelia)
 
 ### Cloud Computing
-- [Ahmad Nur Yasin](https://github.com/akhmadnuryasin)
+- [Akhmad Nuryasin](https://github.com/akhmadnuryasin)
 - [Muhamad Farid](https://github.com/Muhamad-Farid)
 
 ### Mobile Development
