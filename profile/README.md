@@ -1,10 +1,10 @@
 # [C23-PS128] Bean Greader : _Detect Your Quality Coffee Beans_
-<p align="center"><img src="profile/screenshot/banner-repository.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/C23-PS128/.github/main/profile/screenshot/banner-repository.png"/></p>
 
 ## About
 Bean Greader is an application for finding information about coffee and knowing the quality of coffee beans. By using Machine Learning technology, the coffee bean quality detector can display accurate data. So that users can find out what causes affect the quality of the coffee beans. Users must login first before entering the application, because there are favorite features in the application.
 
-<p align="center"><img src="profile/screenshot/Demo.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/C23-PS128/.github/main/profile/screenshot/Demo.png"/></p>
 
 ## Our Teams
 
